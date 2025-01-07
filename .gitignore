@@ -99,5 +99,3 @@ celerybeat-schedule
 # IDEs
 .idea/
 *.iml
-
-x.py
